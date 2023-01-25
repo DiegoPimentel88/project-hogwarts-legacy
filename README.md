@@ -13,8 +13,8 @@ Você pode abrir a Página simples do site. (You can open the simple page of the
 
 ```
 
-Estou utiliando do Github para postar meus estudos. Aceito criticas e correções já que sou apenas um estudante
-e aprimorar tantos meu códigos quanto meus conceito de programação, é de meu interesse número um.
+Estou utilizando do Github para postar meus estudos. Aceito criticas e correções já que sou apenas um estudante
+e aprimorar tanto os meu códigos quanto meus conceito de programação, é de meu interesse número um.
 
 (I'm using the Github for posting my studys. I accept critics and apointments about my code,
 improve my skills and my concepts of development, is my first objective.)
@@ -23,6 +23,6 @@ Quando eu  me aprofundar em JavaScript, prentendo adicionar detalhes e melhorar 
 
 (When i learn more about JavaScript, i will be adding more details and updating my system even more.)
 
-Agradecimento de Diego Pimentel Montoro Leite.
+Agradecimentos de Diego Pimentel Montoro Leite.
 
 Thanks by Diego Pimentel Montoro Leite.
