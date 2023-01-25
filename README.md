@@ -19,7 +19,7 @@ e aprimorar tantos meu códigos quanto meus conceito de programação, é de meu
 (I'm using the Github for posting my studys. I accept critics and apointments about my code,
 improve my skills and my concepts of development, is my first objective.)
 
-Quando meu aprofundar em JavaScript, prentendo adicionar detalhes e melhorar meu sistema ainda mais.
+Quando eu  me aprofundar em JavaScript, prentendo adicionar detalhes e melhorar meu sistema ainda mais.
 
 (When i learn mor about JavaScript, i will be adding more details and updating my system even more.)
 
