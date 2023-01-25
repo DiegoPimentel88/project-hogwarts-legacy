@@ -21,7 +21,7 @@ improve my skills and my concepts of development, is my first objective.)
 
 Quando eu  me aprofundar em JavaScript, prentendo adicionar detalhes e melhorar meu sistema ainda mais.
 
-(When i learn mor about JavaScript, i will be adding more details and updating my system even more.)
+(When i learn more about JavaScript, i will be adding more details and updating my system even more.)
 
 Agradecimento de Diego Pimentel Montoro Leite.
 
