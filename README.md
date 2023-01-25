@@ -1,7 +1,7 @@
 # project-hogwarts-legacy
 
 
-This is my code, not the best ever, but i'm only two weeks studying Front-End, my objectives are improve more and more, to build up site even betters. 
+This is my code, not the best of the world, but i'm only two weeks studying Front-End, my objectives are improve more and more, to build up site even betters. 
  
 Este é o meu código, não é o melhor do mundo, porém, eu estou à apenas 2 semanas estudando Front-End, meu objetivo é evoluir ainda mais na área de programação e 
 contruir sites ainda melhores.
