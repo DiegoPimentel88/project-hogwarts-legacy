@@ -1,7 +1,9 @@
 # project-hogwarts-legacy
-This is my code, not the best code ever, but i'm only two weeks studying Front-End, my objectives are improve more and more, to build up site even betters. 
+
+
+This is my code, not the best ever, but i'm only two weeks studying Front-End, my objectives are improve more and more, to build up site even betters. 
  
-Este é o meu código, não é o melhor código do mundo, porém, eu estou à apenas 2 semanas estudando Front-End, meu objetivo é evoluir ainda mais na área de programação e 
+Este é o meu código, não é o melhor do mundo, porém, eu estou à apenas 2 semanas estudando Front-End, meu objetivo é evoluir ainda mais na área de programação e 
 contruir sites ainda melhores.
 
 >Status: Estudo de Java Script em andamento. (Learning of Java Script ongoing.)
@@ -17,7 +19,7 @@ e aprimorar tantos meu códigos quanto meus conceito de programação, é de meu
 (I'm using the Github for posting my studys. I accept critics and apointments about my code,
 improve my skills and my concepts of development, is my first objective.)
 
-Quando aprender mais sobre JavaScript, prentendo adicionar mais detalhes e melhorar meu sistema ainda mais.
+Quando meu aprofundar em JavaScript, prentendo adicionar detalhes e melhorar meu sistema ainda mais.
 
 (When i learn mor about JavaScript, i will be adding more details and updating my system even more.)
 
